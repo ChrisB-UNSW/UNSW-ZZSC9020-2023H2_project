@@ -1,2 +1,2 @@
-# This is a level 1 heading
+# This line will conflict with another change
 ## This is a level 2 heading
